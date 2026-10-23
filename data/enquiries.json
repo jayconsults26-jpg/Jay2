@@ -1,0 +1,32 @@
+[
+  {
+    "id": "JC-MVKY9UQW-1F4W",
+    "fullName": "Kwame Mensah",
+    "email": "kwame@example.com",
+    "phone": "+233 24 123 4567",
+    "businessName": "Accra Logistics",
+    "service": "Business Website Design",
+    "budget": "Starting Package (GHS 1,500 - GHS 3,000)",
+    "message": "Hello Jay Consults, testing Formspree integration for our upcoming business website.",
+    "privacyConsent": true,
+    "ip": "127.0.0.1",
+    "userAgent": "curl/7.88.1",
+    "createdAt": "2026-10-23T12:32:32.999Z",
+    "emailDeliveryStatus": "delivered"
+  },
+  {
+    "id": "JC-MVI1ST8I-TBE9",
+    "fullName": "Kwame Mensah",
+    "email": "kwame@example.com",
+    "phone": "+233 24 123 4567",
+    "businessName": "Accra Trade Hub",
+    "service": "Business Website Design",
+    "budget": "Starting Package (GHS 1,500 - GHS 3,000)",
+    "message": "Looking for a professional 5-page business website to showcase our trading services.",
+    "privacyConsent": true,
+    "ip": "127.0.0.1",
+    "userAgent": "curl/7.88.1",
+    "createdAt": "2026-10-21T11:47:57.570Z",
+    "emailDeliveryStatus": "pending_provider_setup"
+  }
+]
